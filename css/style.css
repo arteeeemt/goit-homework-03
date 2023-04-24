@@ -37,6 +37,9 @@ margin:0 auto;
 padding: 0 15px;
 }
 
+.header-container{
+display: flex;    
+}
 
 
 .logo {
@@ -356,6 +359,7 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color:var(--span-color);
+margin-bottom:8px;
 }
 
 .list-portfolio{
