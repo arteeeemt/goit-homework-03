@@ -389,10 +389,19 @@ margin-bottom: 32px;
 margin-left: 16px;
 }
 
-.logo link{
+.logo-footer link{
     text-decoration: none;
     display: inline-block;
     margin-bottom: 16px;
+    font-family: 'Raleway', sans-serif;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: var(--logo-color);
+        text-decoration: none;
+        font-style: normal;
 }
 
 .hero-btn:hover,
