@@ -155,6 +155,7 @@ color:var(--list-color)
 background-color:var(--span-color);
 text-align: center;
 padding-top:188px;
+padding-bottom: 188px;
 }
 
 h1.hero-title {
