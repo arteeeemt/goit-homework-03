@@ -382,8 +382,14 @@ padding-left: 0px;
 
 }
 
+.portfolio-decoration{
+padding: 32px 16px;
+border: 1px solid #e7e9fc;
+border-top: none;
+margin-bottom: 8px;
+}
+
 .portfolio-item{
-border: 1px solid #E7E9FC;
 width: calc((100% - 48px) / 3);
 }
 
