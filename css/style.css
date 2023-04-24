@@ -154,6 +154,7 @@ color:var(--list-color)
 .hero{
 background-color:var(--span-color);
 text-align: center;
+padding-top:188px;
 }
 
 h1.hero-title {
@@ -162,7 +163,7 @@ line-height: 1.07;
 text-align: center;
 letter-spacing: 0.02em;
 color:var(--bg-color);   
-padding-top: 188px; 
+/* padding-top: 188px;  */
 text-align: center;
 margin-bottom: 64px;
 max-width:496px;
