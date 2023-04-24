@@ -391,8 +391,6 @@ margin-left: 16px;
 
 .logo-footer link{
     text-decoration: none;
-    display: inline-block;
-    margin-bottom: 16px;
     font-family: 'Raleway', sans-serif;
         font-weight: 800;
         font-size: 18px;
@@ -402,6 +400,8 @@ margin-left: 16px;
         color: var(--logo-color);
         text-decoration: none;
         font-style: normal;
+        display: inline-block;
+        margin-bottom: 16px;
 }
 
 .hero-btn:hover,
