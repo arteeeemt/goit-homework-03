@@ -248,6 +248,8 @@ list-style: none;
 
 .team-section{
 background-color: var(--btn-bg);
+padding-top:120px;
+padding-bottom:120px;
 
 }
 
@@ -258,8 +260,7 @@ text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color:var(--span-color);
-padding-top: 120px;     
-padding-bottom: 72px;
+margin-bottom: 72px;
 }
 
 .list-team{
@@ -271,6 +272,7 @@ padding-bottom: 120px;
 
 .list-item{
 background-color:var(--bg-color);
+border-radius: 0px 0px 4px 4px;
 
 }
 
